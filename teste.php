@@ -1,1 +1,2 @@
 - Gerar release
+- Fazer commits
